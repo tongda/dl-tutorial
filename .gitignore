@@ -1,2 +1,4 @@
 0-back-propagation/MNIST_data
 .venv
+.ipynb_checkpoints
+logs
